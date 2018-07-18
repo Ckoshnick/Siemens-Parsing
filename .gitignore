@@ -1,0 +1,6 @@
+#DataFiles
+*.xlsx
+*.csv
+
+#Directories
+ignoreme/
